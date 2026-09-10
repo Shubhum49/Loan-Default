@@ -29,7 +29,7 @@ This dashboard helps answer key business questions such as:
 ## 🛠️ Tools & Technologies
 
 - **SQL**
-- **Microsoft Fabric Data Flow**
+- **Microsoft Fabric Data Flow Gen2**
 - **Power BI Desktop**
 - **Power Query**
 - **DAX**
@@ -52,7 +52,7 @@ Loan-Default-Dashboard/
 │   └── loan_default.queries.sql
 │
 ├── data-flow/
-│   └── data-flow.png
+│   └── microsoft-fabric-dataflow-gen2.png
 │
 ├── dashboard/
 │   └── Loan-Default-Dashboard.pbix
@@ -66,11 +66,11 @@ Loan-Default-Dashboard/
 
 ## 🔄 Data Preparation & Transformation
 
-The raw CSV dataset was loaded into SQL and processed through a Data Flow before being connected to Power BI Desktop for analysis.
+The raw CSV dataset was loaded into SQL and processed through Microsoft Fabric Dataflow Gen2 before being connected to Power BI Desktop for analysis.
 
 ### Data Pipeline
 
-CSV Dataset → SQL → Data Flow → Power BI Desktop
+CSV Dataset → SQL → Microsoft Fabric Dataflow Gen2 → Power BI Desktop
 
 The processed dataset was then used in Power BI Desktop for analysis.
 
