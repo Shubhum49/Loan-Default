@@ -292,19 +292,19 @@ This project demonstrates the ability to:
 
 ---
 
-## 📌 Dashboard Preview
+## 📌 Report 
 
 ### Loan Default & Overview
 
-![Loan Default Overview](images/Loan%20Default%20Overview.png)
+![Loan Default Overview](./Loan%20Default%20Overview.png)
 
 ### Applicant Demographics & Financial Profile
 
-![Applicant Demographics](images/Applicant%20Demographics.png)
+![Applicant Demographics](./Applicant%20Demographics.png)
 
 ### Financial Risk Metrics
 
-![Financial Risk Metrics](images/Financial%20Risk%20Metrics.png)
+![Financial Risk Metrics](./Financial%20Risk%20Metrics.png)
 
 ---
 
