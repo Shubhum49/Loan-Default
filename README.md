@@ -28,12 +28,13 @@ This dashboard helps answer key business questions such as:
 
 ## 🛠️ Tools & Technologies
 
+- **SQL**
+- **Microsoft Fabric Data Flow**
 - **Power BI Desktop**
 - **Power Query**
 - **DAX**
 - **Data Visualization**
 - **Power BI Service**
-- **CSV / Structured Dataset**
 
 ---
 
