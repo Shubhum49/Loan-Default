@@ -309,6 +309,11 @@ This project demonstrates the ability to:
 
 ---
 
+## 📊 Power BI Dashboard
+
+[Download Loan Default Report (.pbix)](./Loan%20Default.pbix)
+
+---
 ## 👤 Author
 
 *Rohit Chowdhury*  
